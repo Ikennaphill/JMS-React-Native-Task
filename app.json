@@ -1,0 +1,37 @@
+{
+    "expo": {
+        "name": "JMS Task Manager",
+        "slug": "jms-task-manager",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "userInterfaceStyle": "dark",
+        "newArchEnabled": true,
+        "splash": {
+            "resizeMode": "contain",
+            "backgroundColor": "#0B1220"
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": true,
+            "bundleIdentifier": "com.jms.taskmanager",
+            "backgroundColor": "#0B1220"
+        },
+        "android": {
+            "adaptiveIcon": {
+                "backgroundColor": "#0B1220"
+            },
+            "package": "com.jms.taskmanager",
+            "backgroundColor": "#0B1220"
+        },
+        "web": {
+            "backgroundColor": "#0B1220"
+        },
+        "extra": {
+            "eas": {
+                "projectId": "your-project-id-here"
+            }
+        }
+    }
+}
