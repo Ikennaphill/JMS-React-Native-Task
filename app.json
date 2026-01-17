@@ -1,37 +1,37 @@
 {
-    "expo": {
-        "name": "JMS Task Manager",
-        "slug": "jms-task-manager",
-        "version": "1.0.0",
-        "orientation": "portrait",
-        "userInterfaceStyle": "dark",
-        "newArchEnabled": true,
-        "splash": {
-            "resizeMode": "contain",
-            "backgroundColor": "#0B1220"
-        },
-        "assetBundlePatterns": [
-            "**/*"
-        ],
-        "ios": {
-            "supportsTablet": true,
-            "bundleIdentifier": "com.jms.taskmanager",
-            "backgroundColor": "#0B1220"
-        },
-        "android": {
-            "adaptiveIcon": {
-                "backgroundColor": "#0B1220"
-            },
-            "package": "com.jms.taskmanager",
-            "backgroundColor": "#0B1220"
-        },
-        "web": {
-            "backgroundColor": "#0B1220"
-        },
-        "extra": {
-            "eas": {
-                "projectId": "your-project-id-here"
-            }
-        }
+  "expo": {
+    "name": "JMS Task Manager",
+    "slug": "jms-task-manager",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": false,
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#0B1220"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.jms.taskmanager",
+      "backgroundColor": "#0B1220"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#0B1220"
+      },
+      "package": "com.jms.taskmanager",
+      "backgroundColor": "#0B1220"
+    },
+    "web": {
+      "backgroundColor": "#0B1220"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0b853962-15a5-4c60-8c64-6d9928c0a112"
+      }
     }
+  }
 }
