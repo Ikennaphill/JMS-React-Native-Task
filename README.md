@@ -28,6 +28,8 @@ This is a React Native application built for the JMS Advisory Pvt. Ltd. internsh
 - **Axios** - API calls
 - **AsyncStorage** - Token persistence
 - **Functional Components + Hooks** - Modern React patterns
+
+
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![React Navigation](https://img.shields.io/badge/React%20Navigation-6B46C1?style=for-the-badge&logo=react&logoColor=white)
