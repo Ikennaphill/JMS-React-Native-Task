@@ -3,6 +3,12 @@
 ## 📱 Project Overview
 
 This is a React Native application built for the JMS Advisory Pvt. Ltd. internship assessment. The app demonstrates user authentication, API integration, state management, and navigation with a clean, responsive UI.
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React%20Navigation-6B46C1?style=for-the-badge&logo=react&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-FFB000?style=for-the-badge&logo=react&logoColor=black)
+![React Hooks](https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
 
 ## ✨ Features
 
@@ -22,6 +28,12 @@ This is a React Native application built for the JMS Advisory Pvt. Ltd. internsh
 - **Axios** - API calls
 - **AsyncStorage** - Token persistence
 - **Functional Components + Hooks** - Modern React patterns
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![React Navigation](https://img.shields.io/badge/React%20Navigation-6B46C1?style=for-the-badge&logo=react&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![AsyncStorage](https://img.shields.io/badge/AsyncStorage-FFB000?style=for-the-badge&logo=react&logoColor=black)
+![React Hooks](https://img.shields.io/badge/React%20Hooks-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
 
 ## 📋 Prerequisites
 
@@ -36,28 +48,6 @@ Before you begin, ensure you have the following installed:
 
 - **Username:** `emilys`
 - **Password:** `emilyspass`
-
-## 📸 Screenshots Showcase
-
-### 1. Core Screens
-| Splash | Login | Dashboard |
-|--------|-------|-----------|
-| ![Splash](./screenshots/splash.png) | ![Login](./screenshots/login.png) | ![Dashboard](./screenshots/dashboard.png) |
-
-### 2. Identity (Profile)
-| Profile Overview | Profile Details |
-|------------------|-----------------|
-| ![Profile 1](./screenshots/profile1.png) | ![Profile 2](./screenshots/profile2.png) |
-
-### 3. Interactive Features
-| Product Details | Profile Action | Custom Alert |
-|-----------------|----------------|--------------|
-| ![Product Details](./screenshots/product_details.png) | ![Profile Popover](./screenshots/profile_popover.png) | ![Custom Alert](./screenshots/custom_alert.png) |
-
-### 4. Loading States
-| Dashboard Loading | Profile Loading |
-|-------------------|-----------------|
-| ![Loading Dashboard](./screenshots/loading_Dashboard.png) | ![Loading Profile](./screenshots/loading_profile.png) |
 
 ## 📁 Project Features
 
@@ -220,9 +210,9 @@ This will:
 
 ## 👨‍💻 Developer
 
-**Name:** Dhatri Mehta
-**Email:** dmehta.tech@gmail.com
-**LinkedIn:** https://www.linkedin.com/in/dhatri-m-906932275
+**Name:** Ikenna Collins Madueke
+**Email:** mdkcollins@gmail.com
+**LinkedIn:** https://www.linkedin.com/in/collins-madueke-1a1b62167
 
 ## 📝 Assumptions Made
 
